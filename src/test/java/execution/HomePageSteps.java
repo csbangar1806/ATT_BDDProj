@@ -19,7 +19,6 @@ public class HomePageSteps {
 	    WebDriver driver = DriverFactory.getDriver();
 	    
 	//    driver.get("https://www.amazon.in/");
-	    
 	    driver.get("https://www.flipkart.com/");
 
 	}
