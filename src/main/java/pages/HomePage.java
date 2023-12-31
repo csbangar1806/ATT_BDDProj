@@ -15,7 +15,7 @@ public class HomePage {
 	
 	//@FindBy(xpath = "//*[@id='nav-cart122']")
 	//@FindBy(xpath = "//*[@id='nav-cart']")
-	@FindBy(xpath = "(//*[@class='_38VF5e']//*[@title='Cart'])[1]")
+	@FindBy(xpath = "(//*[@class='_38VF5e']//*[@title='Cart123'])[1]")
 	WebElement    cartIcon;
 	
 	@FindBy(xpath = "(//*[@class='a-carousel-card']//img[@alt = 'op'])[1]")
