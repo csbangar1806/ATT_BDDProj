@@ -12,7 +12,6 @@
     <artifactId>cucumber-java</artifactId>
     <version>7.12.1</version>
 </dependency>
-
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
